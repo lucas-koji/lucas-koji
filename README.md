@@ -1,6 +1,6 @@
 ### Hey, I'm Koji 🚀
 
-<img src="img/octocat-1697297297638.png" min-width="400px" max-width="300px" width="300px" align="right">
+<img src="img/octocat-1727662187155.png" min-width="400px" max-width="300px" width="300px" align="right">
 
 <br>
 <br>
