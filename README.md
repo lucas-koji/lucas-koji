@@ -40,7 +40,7 @@ class Skills extends Developer {
     languages = [ "C", "C#", "JAVASCRIPT", "PHP", "Python", "VBA" ];
     databases  = [ "MARIADB", "MYSQL", "POSTGRESQL" ];
     frameworks = [ "EXPRESS", "NODE.JS" ];
-	data = [ "EXCEL", "POWER BI", "QLIKVIEW" ]
+    data = [ "EXCEL", "POWER BI", "QLIKVIEW" ]
     others = [ "AMAZON WEB SERVICES", "DOCKER" ];
 }
 ```
