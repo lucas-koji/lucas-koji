@@ -1,4 +1,8 @@
 ### Hey, I'm Koji 🚀
+<div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/lucas-furukawa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=social" alt="LinkedIn Badge"/></a>
+  <img src="https://komarev.com/ghpvc/?username=lucas-koji&style=social&color=red" alt="visitor"/>
+</div>
 
 <img src="img/octocat-1727662187155.png" min-width="400px" max-width="300px" width="300px" align="right">
 
@@ -22,7 +26,7 @@ Human Coder passionate about solving problems and creating innovations.
   ```
 
 ```js
-import Developer from "LucasKoji";
+import Developer from "Lucaskoji";
 
 class AboutMe extends Developer {
   name = "Lucas Koji";
