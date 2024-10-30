@@ -6,6 +6,7 @@
 
 <img src="img/octocat-1727662187155.png" min-width="400px" max-width="300px" width="300px" align="right">
 
+- Software Engineer student at [42|Rio](https://42.rio/) school.
 - Shifting from operations to development, blending hands-on experience with technical problem-solving.
 - Constantly looking to innovate, improve and expand my knowledge in the tech field, focusing on efficiency and creativity in back-end development
 
