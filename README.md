@@ -39,10 +39,10 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-    languages = [ "C", "C#", "JAVASCRIPT", "PHP", "Python", "VBA" ];
+    languages = [ "C", "C#", "JAVASCRIPT", "Python", "VBA" ];
     databases  = [ "MARIADB", "MYSQL", "POSTGRESQL" ];
     frameworks = [ "EXPRESS", "NODE.JS" ];
-    data = [ "EXCEL", "POWER BI", "QLIKVIEW" ]
-    others = [ "AMAZON WEB SERVICES", "DOCKER" ];
+    data = [ "EXCEL", "POWER BI", "QLIKVIEW", "SQL" ]
+    others = [ "AMAZON WEB SERVICES", "DOCKER", "GIT" ];
 }
 ```
