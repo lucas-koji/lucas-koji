@@ -31,8 +31,6 @@ import Developer from "Lucaskoji";
 class AboutMe extends Developer {
   name = "Lucas Koji";
   area = "Back-end Developer";
-  job = "Freelancer";
-  location = "home";
 
   education = [
     "Software Engineering (2024 - 2026) - École 42",
