@@ -20,7 +20,7 @@ Human Coder passionate about solving problems and creating innovations.
   ```json
   {
     "phone": "+5️⃣5️⃣ (2️⃣1️⃣ 9️⃣7️⃣0️⃣0️⃣4️⃣-0️⃣8️⃣9️⃣4️⃣)", // Workaround to prevent bots
-    "email": "furukawa.lucas🍻gmail.com", // you'll might need .replace('🍻', '@')
+    "email": "furukawa.lucas🍻gmail.com", // you might need .replace('🍻', '@')
     "linkedin": "https://www.linkedin.com/in/lucas-furukawa/"
   }
   ```
